@@ -16,7 +16,7 @@ https://your-username.github.io/portfolio/
 
 ## 📸 Preview
 
-![Portfolio Preview](assets/portfolio-preview.png)
+![Portfolio Preview](https://ayan083.github.io/Myportfolio/)
 
 ---
 
@@ -74,9 +74,7 @@ I enjoy building responsive, user-friendly websites and continuously improving m
 
 **Email:** [mohd.ayan1682sis@gmail.com](mailto:mohd.ayan1682sis@gmail.com)
 
-**Phone:** +91 9140076147
-
-**Location:** Kanpur Nagar, Uttar Pradesh, India
+**Location:**Uttar Pradesh, India
 
 **GitHub:** https://github.com/ayan083
 
